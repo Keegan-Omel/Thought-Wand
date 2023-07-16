@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icons/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Thought Wand",
+  "short_name": "Thought Wand",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "JavaScript syntax highlighting simplifies note-taking by allowing efficient recording of information. Notes with titles and content are stored in local storage. Displayed in a user-friendly format, including titles, content, and timestamps, this approach offers a concise way to organize and retrieve important information using JavaScript.",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3"
+}
