@@ -57,4 +57,5 @@ Live Heroku Link:
 
 GitHub Link:
 
+https://github.com/Keegan-Omel/Thought-Wand
 
