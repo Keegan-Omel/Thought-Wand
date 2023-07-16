@@ -32,7 +32,7 @@
     }
   ],
   "name": "Thought Wand",
-  "short_name": "Thought Wand",
+  "short_name": "ThoughtWand",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",

@@ -13,7 +13,7 @@ const serviceWorkerPlugin = new InjectManifest({
 
 const manifestPlugin = new WebpackPwaManifest({
   name: "Thought Wand",
-  short_name: "Thought Wand",
+  short_name: "ThoughtWand",
   description: "JavaScript syntax highlighting simplifies note-taking by allowing efficient recording of information. Notes with titles and content are stored in local storage. Displayed in a user-friendly format, including titles, content, and timestamps, this approach offers a concise way to organize and retrieve important information using JavaScript.",
   publicPath: "/",
   fingerprints: false,
