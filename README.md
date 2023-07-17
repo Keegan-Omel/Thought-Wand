@@ -55,7 +55,7 @@ The Thought Wand project was developed as part of a Progressive Web Applications
 
 Live Heroku Link:
 
-
+https://thought-wand-c2087ec758f7.herokuapp.com/
 
 GitHub Link:
 
