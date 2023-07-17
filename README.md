@@ -2,7 +2,7 @@
 
 The Thought Wand project is a text editor web application that enables users to create and store notes or code snippets with or without an internet connection. It incorporates Progressive Web Application (PWA) principles, allowing for offline access and data persistence. This project showcases advanced concepts and techniques learned throughout the course.
 
-![Screenshot of My Application](![Alt text](client/src/images/screencapture-localhost-3000-2023-07-16-23_21_24.png))
+![Screenshot of My Application]![Alt text](client/src/images/screencapture-thought-wand-c2087ec758f7-herokuapp-2023-07-16-23_44_50.png)
 
 ## Features
 
