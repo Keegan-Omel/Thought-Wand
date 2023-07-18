@@ -50,9 +50,9 @@ Contributions to the Thought Wand project are welcome! If you have any suggestio
 
 ## Contributors:
 
-Krish
-Shaun Nelson
-Katherine Mclenagan
+Krish,
+Shaun Nelson,
+Katherine Mclenagan,
 Bruno Rosarini
 
 ## License
