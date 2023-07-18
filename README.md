@@ -48,6 +48,13 @@ The project follows a client-server folder structure:
 
 Contributions to the Thought Wand project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
 
+## Contributors:
+
+Krish
+Shaun Nelson
+Katherine Mclenagan
+Bruno Rosarini
+
 ## License
 
 The Thought Wand project is licensed under the [MIT License](LICENSE).
